@@ -8,7 +8,7 @@ import time
 import random
 socket.setdefaulttimeout(60)
 #adjust the site here
-search_term="site:teamtrailaberbenoit.fr"
+search_term="site:mondomain.tld"
 def main():
     #headers = {'User-Agent': 'Mozilla/5.0 (X11; U; Linux i686 (x86_64); en-US; rv:1.8.1.4) Gecko/20070515 Firefox/2.0.0.4'}
     headers = {'User-Agent': 'Mozilla/5.0 (X11; U; Linux x86_64; en-US) AppleWebKit/533.3 (KHTML, like Gecko) Chrome/5.0.360.0 Safari/533.3'}
